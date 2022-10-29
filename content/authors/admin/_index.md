@@ -31,7 +31,7 @@ education:
   courses:
     - course: PhD in Computer Science (ongoing)
       institution: National University of Singapore
-      year: 
+      year: 2023
     - course: Masters in Computer Science and Engineering
       institution: University of Dhaka
       year: 2016
