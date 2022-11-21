@@ -74,7 +74,7 @@ email: ''
 highlight_name: true
 ---
 
-It is great to have your attention on my site! I am Sanjay Saha, currently I am pursuing Ph.D. at the <a href="http://comp.nus.edu.sg/">Department of CS</a> of the National University of Singapore. My primary research focus is on analysis of face images/videos. I love to learn about and solve Computer Vision problems alongside. You are welcome to visit my <a href="https://www.linkedin.com/in/sanjaysaha">LinkedIn page</a> and my <a href="http://sanjaysaha.info/blog/">blog</a> (Not updated for a long time &#128532;)! <br><br>
+It is great to have your attention on my site! I am Sanjay Saha, currently I am pursuing Ph.D. at the <a href="http://comp.nus.edu.sg/">Department of CS</a> of the National University of Singapore. My primary research focus is on analysis of face images/videos. I love to learn about and solve Computer Vision problems alongside. You are welcome to visit my <a href="https://www.linkedin.com/in/sanjaysaha">LinkedIn page</a>! <br><br>
                                 
 As a part of my Ph.D. program I have assisting as a TA, so far I have assisted in these modules: Biometric Authentication, Applied ML for Business Analytics, Discrete Maths, DB systems. I previously was as educator before joining the doctoral program: a Lecturer at the Department of CSE, <a href="http://uap-bd.edu/">University of Asia Pacific</a> (UAP), Dhaka, and <a href="http://www.uiu.ac.bd/">United International University</a> (UIU), Dhaka.</p>
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/SanjaySaha_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
