@@ -52,7 +52,7 @@ social:
     link: https://scholar.google.com/citations?user=prPfgTIAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/sanjaysaha1311
+    link: https://github.com/rgb91
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/sanjaysaha

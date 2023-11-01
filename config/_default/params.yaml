@@ -68,7 +68,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/sanjaysaha1311/sanjaysaha-portfolio'
+    url: 'https://github.com/rgb91/sanjaysaha-portfolio'
     content_dir: content
     branch: main
   avatar:
